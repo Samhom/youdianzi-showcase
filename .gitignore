@@ -1,0 +1,16 @@
+# Public showcase allowlist. Keep application code and local data out.
+/*
+!/.gitignore
+!/README.md
+!/RIGHTS.md
+!/assets/
+
+/assets/*
+!/assets/screenshots/
+
+/assets/screenshots/*
+!/assets/screenshots/home-desktop.png
+!/assets/screenshots/home-mobile.png
+!/assets/screenshots/idea-detail.png
+!/assets/screenshots/feedback-guide.png
+!/assets/screenshots/feedback-mobile.png
